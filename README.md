@@ -1,3 +1,2 @@
-# AJACS76
+# AJACS徳島
 
-AJACS阿波２
