@@ -81,18 +81,18 @@ AJACS徳島 @ 大塚製薬株式会社 徳島研究所 2研ホール
 ## 研究現場で頻繁に使われるデータベースやツールを知る
 ### [統合TV](https://togotv.dbcls.jp/)
 #### 生命科学分野の有用なデータベースやツールの使い方を動画で紹介するウェブサイト
-    - https://togotv.dbcls.jp/
-    - ![統合TVトップページ](https://raw.githubusercontent.com/hiromasaono/training/master/images/190606_01.png)
-    - 各動画は[YouTubeに上がって](http://www.youtube.com/user/togotv/)おり、おなじみの再生画面で快適にご覧いただけます。(環境に応じた解像度、倍速表示等)
-    - 1600本を超える動画が公開されており、YouTube版だけで のべ 1,300,000回以上 再生されています。(2019年4月末現在)
-      - ![YouTube統計](https://raw.githubusercontent.com/hiromasaono/training/master/images/190606_03.png)
-    - ![統合TV 再生画面](https://raw.githubusercontent.com/hiromasaono/training/master/images/190606_02.png)
-      - ウェブサイトへのアクセスの仕方から結果の解釈まで、操作の一挙手一投足がわかります。
-      - 動画ファイルのみのダウンロードも可能で、オフライン視聴もできます。
-      - 動画の概要を示すダイジェスト見出し
-      - 各動画には、恒久的な URL として利用されている [DOI](https://ja.wikipedia.org/wiki/デジタルオブジェクト識別子) (Digital Object Identifier) が付与されています(引用可能)。
-      - 講義・講習などの参考資料や後輩指導の教材として利用できます。
-        - 本講義中、本家サイトが繋がらない時は、統合TVを見ればおおよその内容がわかるようになっています。
+- https://togotv.dbcls.jp/
+- ![統合TVトップページ](https://raw.githubusercontent.com/hiromasaono/training/master/images/190606_01.png)
+- 各動画は[YouTubeに上がって](http://www.youtube.com/user/togotv/)おり、おなじみの再生画面で快適にご覧いただけます。(環境に応じた解像度、倍速表示等)
+- 1600本を超える動画が公開されており、YouTube版だけで のべ 1,300,000回以上 再生されています。(2019年4月末現在)
+- ![YouTube統計](https://raw.githubusercontent.com/hiromasaono/training/master/images/190606_03.png)
+- ![統合TV 再生画面](https://raw.githubusercontent.com/hiromasaono/training/master/images/190606_02.png)
+  - ウェブサイトへのアクセスの仕方から結果の解釈まで、操作の一挙手一投足がわかります。
+  - 動画ファイルのみのダウンロードも可能で、オフライン視聴もできます。
+  - 動画の概要を示すダイジェスト見出し
+  - 各動画には、恒久的な URL として利用されている [DOI](https://ja.wikipedia.org/wiki/デジタルオブジェクト識別子) (Digital Object Identifier) が付与されています(引用可能)。
+  - 講義・講習などの参考資料や後輩指導の教材として利用できます。
+    - 本講義中、本家サイトが繋がらない時は、統合TVを見ればおおよその内容がわかるようになっています。
 
 #### 動画以外のコンテンツも拡充中
     - [AJACS講習会資料](https://togotv.dbcls.jp/ja/ajacs_text.html)
