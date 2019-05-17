@@ -95,23 +95,23 @@ AJACS徳島 @ 大塚製薬株式会社 徳島研究所 2研ホール
     - 本講義中、本家サイトが繋がらない時は、統合TVを見ればおおよその内容がわかるようになっています。
 
 #### 動画以外のコンテンツも拡充中
-    - [AJACS講習会資料](https://togotv.dbcls.jp/ja/ajacs_text.html)
-      - 2014年8月以降に開催された過去の講習会の資料・テキストと動画が「[AJACS講習会資料](https://togotv.dbcls.jp/ja/ajacs_text.html)」で閲覧できるようになり、受講生の復習のみならず、初学者の学習教材として活用できます。
-    - [Togo Picture Gallery(静止画)](https://togotv.dbcls.jp/ja/pics.html)
-      - 誰でも自由に利用可能なライフサイエンス分野のイラストが､統合TVから閲覧､利用することができるようになりました。[「自由に使える画像を探す」](https://togotv.dbcls.jp/ja/pics.html)
-      - Togo picture galleryと[生物アイコン](https://togodb.biosciencedbc.jp/togodb/view/taxonomy_icon)の全画像500点以上を一覧できます。
-      - 研究発表のスライド作成や資料作成等に､ぜひお使いください。
-      - ![自由に使える画像を探す](https://raw.githubusercontent.com/hiromasaono/training/master/images/180612_04.png)
+- [AJACS講習会資料](https://togotv.dbcls.jp/ja/ajacs_text.html)
+  - 2014年8月以降に開催された過去の講習会の資料・テキストと動画が「[AJACS講習会資料](https://togotv.dbcls.jp/ja/ajacs_text.html)」で閲覧できるようになり、受講生の復習のみならず、初学者の学習教材として活用できます。
+- [Togo Picture Gallery(静止画)](https://togotv.dbcls.jp/ja/pics.html)
+  - 誰でも自由に利用可能なライフサイエンス分野のイラストが､統合TVから閲覧､利用することができるようになりました。[「自由に使える画像を探す」](https://togotv.dbcls.jp/ja/pics.html)
+  - Togo picture galleryと[生物アイコン](https://togodb.biosciencedbc.jp/togodb/view/taxonomy_icon)の全画像500点以上を一覧できます。
+  - 研究発表のスライド作成や資料作成等に､ぜひお使いください。
+  - ![自由に使える画像を探す](https://raw.githubusercontent.com/hiromasaono/training/master/images/180612_04.png)
 
 #### 募集と宣伝
 - お探しの動画・静止画が見つからない or 統合TV未掲載の場合は、[統合TV番組リクエストフォーム](http://togotv.dbcls.jp/ja/contact.html)でお気軽にリクエストを。
 - 統合TVでコンテンツを作ってみたい方も募集中です。(オンラインで完結する作成環境を整備しており、遠隔地でもOKです。謝金あり。)
 - 統合TVを効果的に利用するためのガイドブックが出版されました。(2018年12月)
-    - 生命科学データベース・ウェブツール  － 図解と動画で使い方がわかる！ 研究がはかどる定番18選 －
-    - 「定番」として何がよく使われているのかを知り、その使い方を学び、どう使うと便利なのかについて、体系的にまとめて俯瞰的に捉えられるように編集されています。
-    - 「この順で動画をみていくと、こういうスキルを獲得できる」というような体系的な教材です。
-    - https://www.amazon.co.jp/dp/4815701431/
-    - https://www.medsi.co.jp/books/products/detail.php?product_id=3665
+  - 生命科学データベース・ウェブツール  － 図解と動画で使い方がわかる！ 研究がはかどる定番18選 －
+  - 「定番」として何がよく使われているのかを知り、その使い方を学び、どう使うと便利なのかについて、体系的にまとめて俯瞰的に捉えられるように編集されています。
+  - 「この順で動画をみていくと、こういうスキルを獲得できる」というような体系的な教材です。
+  - https://www.amazon.co.jp/dp/4815701431/
+  - https://www.medsi.co.jp/books/products/detail.php?product_id=3665
 
 ----
 
