@@ -12,6 +12,7 @@ AJACS徳島 @ 大塚製薬株式会社 徳島研究所 2研ホール
 
 これは統合データベース講習会 AJACS徳島「ゲノムブラウザ／発現・局在関連データベース」の講習資料です。  
 講習会全体のプログラムは[こちら](https://biosciencedbc.jp/event/ajacs/ajacs76.html)です。
+© 2019 小野 浩雅, [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)
 
 ----
 
