@@ -189,12 +189,12 @@ AJACS徳島 @ 大塚製薬株式会社 徳島研究所 2研ホール
 - 塩基配列解読したゲノム配列とそこに付与（アノテーション）された情報を見るための仕組み
 - オンライン型とローカル型
   - オンライン型：ウェブブラウザ上でサーバにあるゲノムデータベースから必要な情報を取り出してこれる
-    - UCSC Genome Browser https://genome.ucsc.edu/
-    - Ensembl Genome Browser https://www.ensembl.org/
-    - NCBI Genome Data Viewer https://www.ncbi.nlm.nih.gov/genome/gdv/
-    - TOGO GENOME http://togogenome.org/
+   - UCSC Genome Browser https://genome.ucsc.edu/
+   - Ensembl Genome Browser https://www.ensembl.org/
+   - NCBI Genome Data Viewer https://www.ncbi.nlm.nih.gov/genome/gdv/
+   - TOGO GENOME http://togogenome.org/
   - ローカル型：手元のコンピュータにインストールして使用
-    - Integrative Genomics Viewer(IGV) https://software.broadinstitute.org/software/igv/
+   - Integrative Genomics Viewer(IGV) https://software.broadinstitute.org/software/igv/
 
 
 #### 【実習】UCSC ゲノムブラウザを使ってみる
