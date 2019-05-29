@@ -192,9 +192,9 @@ AJACS徳島 @ 大塚製薬株式会社 徳島研究所 2研ホール
 - オンライン型とローカル型
   - オンライン型：ウェブブラウザ上でサーバにあるゲノムデータベースから必要な情報を取り出してこれる
   	- UCSC Genome Browser https://genome.ucsc.edu/
-      - 【統合TV】[UCSC](https://togotv.dbcls.jp/tags.html?tag=UCSC)のタグ
+      - 【統合TV】[「UCSC」](https://togotv.dbcls.jp/tags.html?tag=UCSC)のタグ(講習含む計27本の動画)
   	- Ensembl Genome Browser https://www.ensembl.org/
-      - 【統合TV】[Ensembl](https://togotv.dbcls.jp/tags.html?tag=Ensembl)のタグ
+      - 【統合TV】[「Ensembl」](https://togotv.dbcls.jp/tags.html?tag=Ensembl)のタグ(講習含む計25本の動画)
   	- NCBI Genome Data Viewer https://www.ncbi.nlm.nih.gov/genome/gdv/
   	- Togogenome http://togogenome.org/
       - 【統合TV】[TogoGenome を使って生物種とゲノムに関する多種多様な情報を統合的に検索する](https://togotv.dbcls.jp/20180726.html)
@@ -205,34 +205,42 @@ AJACS徳島 @ 大塚製薬株式会社 徳島研究所 2研ホール
 
 
 
-#### 【実習】UCSC ゲノムブラウザを使ってみる
+#### 【実習】UCSC ゲノムブラウザを使ってGTExのデータを閲覧してみる
+
 - 【統合TV】: [UCSC Genome Browser を使って様々な組織、細胞における遺伝子発現データをゲノムブラウザで表示する](http://togotv.dbcls.jp/ja/20171116.html)
-1. 「[UCSC Genome Browser](https://genome.ucsc.edu/)」でググって、トップページを開く。
-2. トップページにはツール名がリストされている。一番上にある「Genome Browser」をクリックする。
+- 【統合TV】: [UCSC Genome Browserで表示できるアノテーションを調べる 2018](https://togotv.dbcls.jp/20180710.html)
 
-![figs/AJACS72_02_kawano_010.png](figs/AJACS72_02_kawano_010.png)
 
-3. 最寄りのミラーサイトに接続する
-
-[![https://gyazo.com/0a10cb8a25d2a3919506b7ab6fb5335f](https://i.gyazo.com/0a10cb8a25d2a3919506b7ab6fb5335f.png)](https://gyazo.com/0a10cb8a25d2a3919506b7ab6fb5335f)
-
-4. Genome Browserのページが開くので、生物種「Human」とアッセンブリ「Feb.2009/(GRC37/hg19)」を選んで、検索語（ここでは「FAM32A」）を入力する
-
-[![https://gyazo.com/05ab6f4871c60485d4c54828a7f5f972](https://i.gyazo.com/05ab6f4871c60485d4c54828a7f5f972.png)](https://gyazo.com/05ab6f4871c60485d4c54828a7f5f972)
-
-5. FAM32A遺伝子のゲノム領域が表示される
-
-[![https://gyazo.com/2032119adde3af87b91266dc6197e0a5](https://i.gyazo.com/2032119adde3af87b91266dc6197e0a5.png)](https://gyazo.com/2032119adde3af87b91266dc6197e0a5)
-
-6. 「Regulation」の「ENC TF Binding...」を「hide」から「show」に変更して、「refresh」ボタンを押す。
-
-![figs/AJACS72_02_kawano_011.png](figs/AJACS72_02_kawano_011.png)
-
-7. 転写因子結合サイトの情報が追加される。
-
-[![https://gyazo.com/703be239476dfeae1985eb0348048bc2](https://i.gyazo.com/703be239476dfeae1985eb0348048bc2.png)](https://gyazo.com/703be239476dfeae1985eb0348048bc2)
-
-8. いろいろ変更して表示してみましょう。わからなくなったら、図の下に並んでいるボタンの「default tracks」を押すと最初の状態に戻せます。
+1. 「[UCSC Genome Browser](https://genome.ucsc.edu/)」で、トップページを開きます
+1. トップページにはツール名がリストされている。一番上にある「Genome Browser」をクリックしま。
+![UCSCトップページ](https://raw.githubusercontent.com/hiromasaono/training/master/images/190606_04.png)
+1. 最寄りのミラーサイトに接続します
+![UCSC mirror](https://raw.githubusercontent.com/hiromasaono/training/master/images/190606_05.png)
+1. Genome Browserのページが開くので、生物種「Human」と最新のゲノムアセンブリ「Dec. 2013 (GRCh38/hg38)」が選択されていることを確認して、そのまま「Go」をクリックします
+![GenomeBrowserトップページ](https://raw.githubusercontent.com/hiromasaono/training/master/images/190606_06.png)
+1. Current position: chr1:11,102,837-11,267,747 の領域が表示される。GTExのトラックは初期設定だと画面中央(赤枠)にあります
+![chr1:11,102,837-11,267,747](https://raw.githubusercontent.com/hiromasaono/training/master/images/190606_07.png)
+1. GTEx のトラックでは組織ごとの遺伝子発現量がバーチャートで表示されており、マウスオーバーすると発現値と組織名が示されます
+  - バーチャートの横幅は遺伝子の領域とは無関係であることに注意
+  - 横線の色は遺伝子のタイプを示し、青はprotein-coding、緑はnon-coding、ピンクはpseudogene
+![マウスオーバー](https://raw.githubusercontent.com/hiromasaono/training/master/images/190606_08.png)
+1. グラフ自体をクリックすると詳細情報を閲覧できます
+  - トラック上のバーチャートでは発現値はlog10変換されているが、詳細情報の箱ひげ図ではlog10変換されていないことに注意
+![箱ひげ図](https://raw.githubusercontent.com/hiromasaono/training/master/images/190606_09.png)
+1. 一つ前のページに戻って、下部に移動すると「GTEx Gene」のトラックがあるので、そこをクリックすると設定画面に移動します
+![GTEx Geneトラック](https://raw.githubusercontent.com/hiromasaono/training/master/images/190606_10.png)
+ - デフォルトでは、全ての組織が表示されるようになっています。特に比較したい組織がある場合は、Clear allをクリックして選択を解除してから、目的の組織だけを選択します
+ - 発現値のlog10変換はこの画面で設定変更できます
+1. 一つ前のページに戻って、「track hubs」を活用すると、GTExデータのようなUCSC外部のデータソースに由来する様々なアノテーショントラックを追加できます。
+![track hubs](https://raw.githubusercontent.com/hiromasaono/training/master/images/190606_11.png)
+1. 細胞ごとのmiRNAの発現量を表示できるトラック「Human cellular microRNAome barChart」を選択して「Connect」をクリックします
+ - 3つの異なる研究データに基づくヒトの78の初代培養細胞と42のがん細胞あるいは不死化細胞のmiRNA発現量を測定したデータです([原著論文: Toward the human cellular microRNAome](https://genome.cshlp.org/content/27/10/1769))
+![Human cellular microRNAome barChart](https://raw.githubusercontent.com/hiromasaono/training/master/images/190606_12.png)
+1. 自動的に画面が遷移してGenome Browserのトップページに戻るので、検索したいmiRNA(今回は例としてMIR126)を検索窓に入力します。
+![search for MIR126](https://raw.githubusercontent.com/hiromasaono/training/master/images/190606_13.png)
+1. [MIR126の領域](https://genome.ucsc.edu/cgi-bin/hgTracks?db=hg38&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chr9%3A136670602%2D136670686&hgsid=727916439_U4isI9rJMtlZRcqlhIG7YGeB53Lv)のデータがバーチャートで表示されます。
+![MIR126](https://raw.githubusercontent.com/hiromasaono/training/master/images/190606_14.png)
+1. その他、いろいろ変更して表示してみましょう。わからなくなったら、図の下に並んでいるボタンの「default tracks」を押すと最初の状態に戻せます。
 
 
 
