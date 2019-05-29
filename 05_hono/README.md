@@ -209,6 +209,8 @@ AJACS徳島 @ 大塚製薬株式会社 徳島研究所 2研ホール
 
 - 【統合TV】: [UCSC Genome Browser を使って様々な組織、細胞における遺伝子発現データをゲノムブラウザで表示する](http://togotv.dbcls.jp/ja/20171116.html)
 - 【統合TV】: [UCSC Genome Browserで表示できるアノテーションを調べる 2018](https://togotv.dbcls.jp/20180710.html)
+- 【統合TV】: [GTEx Portalを使ってヒトの各組織での遺伝子発現量や影響するeQTLを調べる](https://togotv.dbcls.jp/20180101.html)
+  - [Genotype-Tissue Expression (GTEx)](https://www.gtexportal.org/home/) プロジェクトは米国ブロード研究所(Broad Institute)をはじめとする南北米および欧州の複数の研究機関からなる国際コンソーシアムによる、ヒトの体組織ごと、遺伝子型ごとの遺伝子発現を網羅的に調べたプロジェクトです。 そのポータルサイトであるGTEx Portalでは、GTExプロジェクトで収集・解析された遺伝子の発現量や関連するeQTL(expression Quantitative Trait Locus: 遺伝子の発現量に影響を与える座位)などのデータがまとめられています。
 
 
 1. 「[UCSC Genome Browser](https://genome.ucsc.edu/)」で、トップページを開きます
