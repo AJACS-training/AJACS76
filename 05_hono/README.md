@@ -156,7 +156,7 @@ AJACS徳島 @ 大塚製薬株式会社 徳島研究所 2研ホール
 ## ゲノムデータベース・ゲノムブラウザ
 ### ゲノムデータベースとは？
 - ゲノム配列をはじめとした（遺伝）情報を生物種ごとにまとめたデータベース
-- 狭義にはゲノム配列のデータベースをいう
+- 狭義にはゲノム配列のデータベースを指す
 
 #### さまざまなゲノムデータベース
 - [NCBI](https://www.ncbi.nlm.nih.gov/) (National Center for Biotechnology Information) の [**Genome**](https://www.ncbi.nlm.nih.gov/genome/)
@@ -192,13 +192,17 @@ AJACS徳島 @ 大塚製薬株式会社 徳島研究所 2研ホール
 - オンライン型とローカル型
   - オンライン型：ウェブブラウザ上でサーバにあるゲノムデータベースから必要な情報を取り出してこれる
   	- UCSC Genome Browser https://genome.ucsc.edu/
+      - 【統合TV】[UCSC](https://togotv.dbcls.jp/tags.html?tag=UCSC)のタグ
   	- Ensembl Genome Browser https://www.ensembl.org/
+      - 【統合TV】[Ensembl](https://togotv.dbcls.jp/tags.html?tag=Ensembl)のタグ
   	- NCBI Genome Data Viewer https://www.ncbi.nlm.nih.gov/genome/gdv/
-  	- TOGO GENOME http://togogenome.org/
+  	- Togogenome http://togogenome.org/
+      - 【統合TV】[TogoGenome を使って生物種とゲノムに関する多種多様な情報を統合的に検索する](https://togotv.dbcls.jp/20180726.html)
   - ローカル型：手元のコンピュータにインストールして使用
   	- Integrative Genomics Viewer(IGV) https://software.broadinstitute.org/software/igv/
+      - 【統合TV】[Integrative Genomics Viewer IGVを使い倒す 〜基本編〜](https://togotv.dbcls.jp/20140529.html)
 
-	
+
 
 
 #### 【実習】UCSC ゲノムブラウザを使ってみる
@@ -229,6 +233,8 @@ AJACS徳島 @ 大塚製薬株式会社 徳島研究所 2研ホール
 [![https://gyazo.com/703be239476dfeae1985eb0348048bc2](https://i.gyazo.com/703be239476dfeae1985eb0348048bc2.png)](https://gyazo.com/703be239476dfeae1985eb0348048bc2)
 
 8. いろいろ変更して表示してみましょう。わからなくなったら、図の下に並んでいるボタンの「default tracks」を押すと最初の状態に戻せます。
+
+
 
 ---
 
