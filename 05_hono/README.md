@@ -254,10 +254,10 @@ AJACS徳島 @ 大塚製薬株式会社 徳島研究所 2研ホール
     - オリジナルデータの再処理方法の詳細は[GitHub](https://github.com/dbcls/RefEx/tree/master/Rawdata_Processing)に
     - 再処理済みの発現データやサンプルアノテーション等のすべてのデータは[figshare](https://figshare.com/)に
     - 「The RefEx analysis」として論文に引用していただいた活用例
-         - [Aberrant IDH3α expression promotes malignant tumor growth by inducing HIF-1-mediated metabolic reprogramming and angiogenesis, Oncogene, (22 December 2014) | doi:10.1038/onc.2014.411 @ Figure 6](http://www.nature.com/onc/journal/vaop/ncurrent/full/onc2014411a.html)
-         - がん研究者が、発現解析実験で見出した数百個の治療標的・候補遺伝子の絞込みに使えないか検討した。
-         - これらの候補遺伝子の正常組織における発現量が低ければ、治療標的とした場合に悪影響・副作用が小さくなると仮説した。
-         - 実際に、これらの遺伝子の発現量をRefExで確認し、追加確認実験の優先順位付けを効率的に行うことができた。
+    	- [Aberrant IDH3α expression promotes malignant tumor growth by inducing HIF-1-mediated metabolic reprogramming and angiogenesis, Oncogene, (22 December 2014) | doi:10.1038/onc.2014.411 @ Figure 6](http://www.nature.com/onc/journal/vaop/ncurrent/full/onc2014411a.html)
+        - がん研究者が、発現解析実験で見出した数百個の治療標的・候補遺伝子の絞込みに使えないか検討した。
+        - これらの候補遺伝子の正常組織における発現量が低ければ、治療標的とした場合に悪影響・副作用が小さくなると仮説した。
+        - 実際に、これらの遺伝子の発現量をRefExで確認し、追加確認実験の優先順位付けを効率的に行うことができた。
     - その他RefExを引用した論文の一覧はこちらでご覧いただけます。
         - [https://dbcls.rois.ac.jp/references.html#RefEx](https://dbcls.rois.ac.jp/references.html#RefEx)
 
