@@ -212,13 +212,13 @@ AJACS徳島 @ 大塚製薬株式会社 徳島研究所 2研ホール
 
 
 1. 「[UCSC Genome Browser](https://genome.ucsc.edu/)」で、トップページを開きます
-1. トップページにはツール名がリストされている。一番上にある「Genome Browser」をクリックしま。
+1. トップページにはツール名がリストされているので一番上にある「Genome Browser」をクリックします
 ![UCSCトップページ](https://raw.githubusercontent.com/hiromasaono/training/master/images/190606_04.png)
 1. 最寄りのミラーサイトに接続します
 ![UCSC mirror](https://raw.githubusercontent.com/hiromasaono/training/master/images/190606_05.png)
 1. Genome Browserのページが開くので、生物種「Human」と最新のゲノムアセンブリ「Dec. 2013 (GRCh38/hg38)」が選択されていることを確認して、そのまま「Go」をクリックします
 ![GenomeBrowserトップページ](https://raw.githubusercontent.com/hiromasaono/training/master/images/190606_06.png)
-1. Current position: chr1:11,102,837-11,267,747 の領域が表示される。GTExのトラックは初期設定だと画面中央(赤枠)にあります
+1. Current position: chr1:11,102,837-11,267,747 の領域が表示されます。GTExのトラックは初期設定だと画面中央(赤枠)にあります
 ![chr1:11,102,837-11,267,747](https://raw.githubusercontent.com/hiromasaono/training/master/images/190606_07.png)
 1. GTEx のトラックでは組織ごとの遺伝子発現量がバーチャートで表示されており、マウスオーバーすると発現値と組織名が示されます
   - バーチャートの横幅は遺伝子の領域とは無関係であることに注意
