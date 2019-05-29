@@ -105,7 +105,7 @@ AJACS徳島 @ 大塚製薬株式会社 徳島研究所 2研ホール
   - ![自由に使える画像を探す](https://raw.githubusercontent.com/hiromasaono/training/master/images/180612_04.png)
 
 #### 募集と宣伝
-- お探しの動画・静止画が見つからない場合は、[統合TV番組リクエストフォーム](http://togotv.dbcls.jp/ja/contact.html)でお気軽にリクエストを。
+- お探しの動画・静止画が見つからない場合は、[統合TV番組リクエストフォーム](https://togotv.dbcls.jp/ja/contact.html)でお気軽にリクエストを。
 - 統合TVでコンテンツを作ってみたい方も募集中です。
   - オンラインで完結する作成環境を整備しており、遠隔地でもOKです。謝金あり。)
 - 統合TVを効果的に利用するためのガイドブックが出版されました。(2018年12月)
@@ -135,7 +135,7 @@ AJACS徳島 @ 大塚製薬株式会社 徳島研究所 2研ホール
     - [「バイオインフォマティクス人材育成カリキュラム 次世代シークエンサ(NGS)ハンズオン講習会(2015年8月)](https://www.youtube.com/playlist?list=PL0uaKHgcG00Yo0Cn0rcF23xof5hqCzGQb)
     - [NGSハンズオン講習会2016](https://www.youtube.com/watch?v=TSa1yPy_sdM&list=PL0uaKHgcG00ZNpICun17CEAFpV_5Q6GCA)
     - [NGSハンズオン講習会2017](https://www.youtube.com/watch?v=6Fzvl_I48tM&list=PL0uaKHgcG00YDmBXYWOgkmfeURjc8BZkk)
-    - [上記の動画+講習会資料のまとめページ@統合TV](http://togotv.dbcls.jp/ja/tags.html?tag=NGS速習・ハンズオン)
+    - [上記の動画+講習会資料のまとめページ@統合TV](https://togotv.dbcls.jp/ja/tags.html?tag=NGS速習・ハンズオン)
 
 - ビッグデータ時代の疾患ゲノム解析で使いこなしたいデータベース
     - [The Cancer Genome Atlas \(TCGA\) を使って各癌種の公開データを検索・ダウンロードする](https://togotv.dbcls.jp/20171210.html)
@@ -206,7 +206,7 @@ AJACS徳島 @ 大塚製薬株式会社 徳島研究所 2研ホール
 
 #### 【実習】UCSC ゲノムブラウザを使ってGTExのデータを閲覧してみる
 
-- 【統合TV】: [UCSC Genome Browser を使って様々な組織、細胞における遺伝子発現データをゲノムブラウザで表示する](http://togotv.dbcls.jp/ja/20171116.html)
+- 【統合TV】: [UCSC Genome Browser を使って様々な組織、細胞における遺伝子発現データをゲノムブラウザで表示する](https://togotv.dbcls.jp/ja/20171116.html)
 - 【統合TV】: [GTEx Portalを使ってヒトの各組織での遺伝子発現量や影響するeQTLを調べる](https://togotv.dbcls.jp/20180101.html)
   - [Genotype-Tissue Expression (GTEx)](https://www.gtexportal.org/home/) プロジェクトは米国ブロード研究所(Broad Institute)をはじめとする南北米および欧州の複数の研究機関からなる国際コンソーシアムによる、ヒトの体組織ごと、遺伝子型ごとの遺伝子発現を網羅的に調べたプロジェクトです。 そのポータルサイトであるGTEx Portalでは、GTExプロジェクトで収集・解析された遺伝子の発現量や関連するeQTL(expression Quantitative Trait Locus: 遺伝子の発現量に影響を与える座位)などのデータがまとめられています。
 
@@ -408,9 +408,9 @@ ChIP-Atlasは、論文などで報告された ChIP-seq データを閲覧し、
 
 ## さらに学びたい方向け
 ### データ可視化・解析ツール
-- [Tableau Public を使って 行列データを直感的に可視化し解析する](http://togotv.dbcls.jp/20181126.html)
-- [Morpheus を使って、様々な行列データをヒートマップで表示しウェブブラウザでデータ解析をする](http://togotv.dbcls.jp/20181109.html)
-- [Dataset2Tools でオミックスデータとその解析事例、計算ツールを検索し、再現性の高い再解析を行う](http://togotv.dbcls.jp/20181021.html)
+- [Tableau Public を使って 行列データを直感的に可視化し解析する](https://togotv.dbcls.jp/20181126.html)
+- [Morpheus を使って、様々な行列データをヒートマップで表示しウェブブラウザでデータ解析をする](https://togotv.dbcls.jp/20181109.html)
+- [Dataset2Tools でオミックスデータとその解析事例、計算ツールを検索し、再現性の高い再解析を行う](https://togotv.dbcls.jp/20181021.html)
     - [Enrichr](http://amp.pharm.mssm.edu/Enrichr)
 
 
