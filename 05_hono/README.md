@@ -35,6 +35,7 @@ AJACS徳島 @ 大塚製薬株式会社 徳島研究所 2研ホール
 - 個々の遺伝子の発現プロファイルを調べる
   - RefEx
     - 【実習】RefExを使って、組織特異的遺伝子を検索する
+
 - 数十～数千の遺伝子群の生物学的解釈
   - ChIP-Atlas
     - 【実習】ChIP-AtlasのEnrichment Analysis を使って、興味ある遺伝子リストを制御する可能性の高い転写因子を調べる
@@ -77,80 +78,6 @@ AJACS徳島 @ 大塚製薬株式会社 徳島研究所 2研ホール
 |大規模発現解析の予定はない|11 名|23 %|
 |回答なし|3 名|6 %|
 ---
-
-## 研究現場で頻繁に使われるデータベースやツールを知る
-### [統合TV](https://togotv.dbcls.jp/)
-#### 生命科学分野の有用なデータベースやツールの使い方を動画で紹介するウェブサイト
-- https://togotv.dbcls.jp/
-- ![統合TVトップページ](https://raw.githubusercontent.com/hiromasaono/training/master/images/190606_01.png)
-- 各動画は[YouTubeに上がって](http://www.youtube.com/user/togotv/)おり、おなじみの再生画面で快適にご覧いただけます。(環境に応じた解像度、倍速表示等)
-- 1600本を超える動画が公開されており、YouTube版だけで のべ 1,300,000回以上 再生されています。(2019年4月末現在)
-- ![YouTube統計](https://raw.githubusercontent.com/hiromasaono/training/master/images/190606_03.png)
-- ![統合TV 再生画面](https://raw.githubusercontent.com/hiromasaono/training/master/images/190606_02.png)
-  - ウェブサイトへのアクセスの仕方から結果の解釈まで、操作の一挙手一投足がわかります。
-  - 動画ファイルのみのダウンロードも可能で、オフライン視聴もできます。
-  - 動画の概要を示すダイジェスト見出し
-  - 各動画には、恒久的な URL として利用されている [DOI](https://ja.wikipedia.org/wiki/デジタルオブジェクト識別子) (Digital Object Identifier) が付与されています(引用可能)。
-  - 講義・講習などの参考資料や後輩指導の教材として利用できます。
-    - 本講義中、本家サイトが繋がらない時は、統合TVを見ればおおよその内容がわかるようになっています。
-
-#### 動画以外のコンテンツも拡充中
-- [AJACS講習会資料](https://togotv.dbcls.jp/ja/ajacs_text.html)
-  - 2014年8月以降に開催された過去の講習会の資料・テキストと動画が同時閲覧できます。
-  - 受講生の復習のみならず、初学者の学習教材として活用できます。
-- [Togo Picture Gallery(静止画)](https://togotv.dbcls.jp/ja/pics.html)
-  - 誰でも自由に利用可能なライフサイエンス分野のイラストが､統合TVから閲覧､利用することができるようになりました。[「自由に使える画像を探す」](https://togotv.dbcls.jp/ja/pics.html)
-  - Togo picture galleryと[生物アイコン](https://togodb.biosciencedbc.jp/togodb/view/taxonomy_icon)の全画像500点以上を一覧できます。
-  - 研究発表のスライド作成や資料作成等に､ぜひお使いください。
-  - ![自由に使える画像を探す](https://raw.githubusercontent.com/hiromasaono/training/master/images/180612_04.png)
-
-#### 募集と宣伝
-- お探しの動画・静止画が見つからない場合は、[統合TV番組リクエストフォーム](https://togotv.dbcls.jp/ja/contact.html)でお気軽にリクエストを。
-- 統合TVでコンテンツを作ってみたい方も募集中です。
-  - オンラインで完結する作成環境を整備しており、遠隔地でもOKです。謝金あり。)
-- 統合TVを効果的に利用するためのガイドブックが出版されました。(2018年12月)
-  - 生命科学データベース・ウェブツール  － 図解と動画で使い方がわかる！ 研究がはかどる定番18選 －
-  - 「定番」として何がよく使われているのかを知り、その使い方を学び、どう使うと便利なのかについて、体系的にまとめて俯瞰的に捉えられるように編集されています。
-  - 「この順で動画をみていくと、こういうスキルを獲得できる」というような体系的な教材です。
-  - https://www.amazon.co.jp/dp/4815701431/
-  - https://www.medsi.co.jp/books/products/detail.php?product_id=3665
-
-----
-
-#### 習熟度ややりたいこと別にご参考ください
-- DBCLSの提供する便利な各種サービスをレビュー
-  - [【NGSハンズオン2017】NBDC・DBCLSの各種サービス 今日から使える便利な生命科学系公共データベース in DBCLS](https://togotv.dbcls.jp/20171204.html)
-
-- PubMed検索のプロによる文献検索のイロハを学ぶ
-      - [文献情報を用いたサービスを活用する @ AJACS越後](https://togotv.dbcls.jp/ja/ajacs2018011.html)
-
-- 塩基配列解析に関わる基礎知識(遺伝子IDとそのデータベース)とゲノム編集について
-    - [塩基配列解析およびゲノム編集のためのデータベース・ウェブツール](https://togotv.dbcls.jp/ja/ajacs2018021.html)
-
-- 次世代シーケンス(NGS)データ解析に必要な基礎知識とリテラシーを学ぶ
-    - [NGSデータから新たな知識を導出するためのデータ解析リテラシー @ AJACS浜松](https://togotv.dbcls.jp/ja/ajacs2018008.html)
-
-- NGS解析について、さらにもっと基礎から応用までを深く学びたい方向け (それぞれ約50時間程度)
-    - [「バイオインフォマティクス人材育成カリキュラム（次世代シークエンサ）速習コース(2014年8月)](https://www.youtube.com/playlist?list=PL0uaKHgcG00abmj1Nzs1SUhqKLjf_PFBB)
-    - [「バイオインフォマティクス人材育成カリキュラム 次世代シークエンサ(NGS)ハンズオン講習会(2015年8月)](https://www.youtube.com/playlist?list=PL0uaKHgcG00Yo0Cn0rcF23xof5hqCzGQb)
-    - [NGSハンズオン講習会2016](https://www.youtube.com/watch?v=TSa1yPy_sdM&list=PL0uaKHgcG00ZNpICun17CEAFpV_5Q6GCA)
-    - [NGSハンズオン講習会2017](https://www.youtube.com/watch?v=6Fzvl_I48tM&list=PL0uaKHgcG00YDmBXYWOgkmfeURjc8BZkk)
-    - [上記の動画+講習会資料のまとめページ@統合TV](https://togotv.dbcls.jp/ja/tags.html?tag=NGS速習・ハンズオン)
-
-- ビッグデータ時代の疾患ゲノム解析で使いこなしたいデータベース
-    - [The Cancer Genome Atlas \(TCGA\) を使って各癌種の公開データを検索・ダウンロードする](https://togotv.dbcls.jp/20171210.html)
-    - [The Cancer Genome Atlas \(TCGA\) を使って各癌種の公開データを解析する](https://togotv.dbcls.jp/20171214.html)
-    - [COSMICでがん遺伝子の体細胞変異について調べる](https://togotv.dbcls.jp/20180127.html)
-    - [COSMIC\-3Dを使って がん遺伝子のコードするタンパク質の立体構造を がんで見られる変異の情報と重ねて見る](https://togotv.dbcls.jp/20180329.html)
-    - [depmapを使ってがん細胞が依存する遺伝子の情報を調べる \(がんの治療標的となる遺伝子を発見する\)](https://togotv.dbcls.jp/20180531.html)
-    - [GWAS Catalog を使って、GWASで見つかった形質と多型の関連について検索する](https://togotv.dbcls.jp/20180402.html)
-    - [ClinVarで疾患に関連する変異を検索し、Variation Viewerで視覚的に変異を探す](https://togotv.dbcls.jp/20180122.html)
-    - [gnomADを使ってヒトのエキソームやゲノムのデータから変異を探す](https://togotv.dbcls.jp/20180401.html)
-    - [GTEx Portalを使ってヒトの各組織での遺伝子発現量や影響するeQTLを調べる](https://togotv.dbcls.jp/20180101.html)
-    - [TogoVar でヒトゲノムに存在するバリアントに関連する情報を調べる](https://togotv.dbcls.jp/20180825.html)
-----
-
-
 
 ## ゲノムデータベース・ゲノムブラウザ
 ### ゲノムデータベースとは？
@@ -201,9 +128,6 @@ AJACS徳島 @ 大塚製薬株式会社 徳島研究所 2研ホール
   	- Integrative Genomics Viewer(IGV) https://software.broadinstitute.org/software/igv/
       - 【統合TV】[Integrative Genomics Viewer IGVを使い倒す 〜基本編〜](https://togotv.dbcls.jp/20140529.html)
 
-
-
-
 #### 【実習】UCSC ゲノムブラウザを使ってGTExのデータを閲覧してみる
 
 - 【統合TV】: [UCSC Genome Browser を使って様々な組織、細胞における遺伝子発現データをゲノムブラウザで表示する](https://togotv.dbcls.jp/ja/20171116.html)
@@ -242,12 +166,20 @@ AJACS徳島 @ 大塚製薬株式会社 徳島研究所 2研ホール
 ![MIR126](https://raw.githubusercontent.com/hiromasaono/training/master/images/190606_14.png)
 1. その他、いろいろ変更して表示してみましょう。わからなくなったら、図の下に並んでいるボタンの「default tracks」を押すと最初の状態に戻せます。
 
-- 【統合TV】: [UCSC Genome Browserで表示できるアノテーションを調べる 2018](https://togotv.dbcls.jp/20180710.html)
+- 設定変更や追加で表示可能なアノテーションを調べる方法
+  - 【統合TV】: [UCSC Genome Browserで表示できるアノテーションを調べる 2018](https://togotv.dbcls.jp/20180710.html)
 
 ---
 
 
 ## 個々の遺伝子の発現プロファイルを調べる
+
+### 誰でも使える公共の遺伝子発現データ
+- さまざまな実験で得られたデータは、論文投稿時などに公共データベース上に登録し、その後誰でも参照可能になるようにすることが義務付けられていることが多いですが、それは遺伝子発現データについても同様です。公共データベースには多種多様な遺伝子発現データが日々大量に登録、蓄積され続けています。
+  - これらのデータをうまく活用すれば、例えば、予備実験をせずに済む、自分の実験結果を支持する知見が得られる、仮説立案の新たな切り口が得られるなど、多くのメリットがあります。
+  - 一方で、いざ使おうと思ったときに、その膨大さから、どのデータを選び、詳しく調べればよいのか分かりにくく、利用することが困難で諦めてしまうことが多いです。
+- これらの困難さを軽減するために、いくつかの二次的なデータベースやツールが開発されています。これらをうまく使うことで、自分のデータと組み合わせられる遺伝子発現データをすばやく検索、発見し、活用できるようになるでしょう。
+
 ### [RefEx (Reference Expression dataset)](https://refex.dbcls.jp/)
 - 遺伝子発現解析の基準となるデータを快適に検索できるウェブツール
     - [https://refex.dbcls.jp/](https://refex.dbcls.jp/)
@@ -257,7 +189,9 @@ AJACS徳島 @ 大塚製薬株式会社 徳島研究所 2研ホール
     ![fig-3'](https://raw.githubusercontent.com/dbcls/website/master/services/images/DBCLSservices_RefEx_jp_fig-3_180523.png)
 - 公共DBにある正常組織や細胞株における遺伝子発現データを再利用・整理
 - 4つの異なる実験手法（EST、GeneChip、CAGE、RNA-seq）によって得られた正常組織、初代培養細胞、細胞株における遺伝子発現データを検索、閲覧可能
-    - 最近新たに、FANTOM5 CAGEデータが追加(ヒト556種、マウス286種)
+    - FANTOM5 CAGEデータ(phase1)も閲覧可能です(ヒト556種、マウス286種)
+      - FANTOM5 CAGEデータ
+        - 理化学研究所のFANTOM プロジェクト5（[FANTOM5](http://fantom.gsc.riken.jp/5/)）では、ゲノムにコードされているプロモーターと転写因子制御ネットワークを明らかにすることを目的として膨大なCAGEデータを測定し、それらを閲覧できるウェブサイトも公開されている。
     - 掲載しているデータやオリジナルデータなどの詳細については、[RefExについて](https://refex.dbcls.jp/about.php?lang=ja)
 - このツールでできること
     - 正常組織における遺伝子発現データを調べる
@@ -287,8 +221,8 @@ AJACS徳島 @ 大塚製薬株式会社 徳島研究所 2研ホール
   * 統合TV 「RefExの使い方」[DOI: 10.7875/togotv.2014.009](http://doi.org/10.7875/togotv.2014.009)
 ----
 
-#### 【実習1】RefExを使って、組織特異的遺伝子を検索する
-- 【復習用】[RefExの使い方](https://doi.org/10.7875/togotv.2014.009)
+#### 【実習】RefExを使って、組織特異的遺伝子を検索する
+- 【統合TV】[RefExの使い方](https://doi.org/10.7875/togotv.2014.009)
 
 1. https://refex.dbcls.jp/ を開きます。
 2. 画面中央の「組織特異的に発現する遺伝子を見る」の臓器アイコンにカーソルを合わせると、更に詳細な部位のアイコンが出るので、調べたい臓器（例として肝臓）をクリックします。  
@@ -328,6 +262,19 @@ AJACS徳島 @ 大塚製薬株式会社 徳島研究所 2研ホール
  - ![並列比較2](http://i.gyazo.com/3f2f9e5cbf135a2c298ae164d6360302.jpg)
 14. 自分の研究テーマに関連する、また興味のある遺伝子について検索してみましょう。
 
+#### 関連するツール
+- ExpressionAtlas
+  - Expression Atlas は、EMBL-EBI (欧州バイオインフォマティクス研究所) が運営する、様々な生物種における遺伝子発現情報を提供するウェブサイトである。40 の生物種について、3000 以上の実験に基づき、組織や細胞種、発生段階、疾患の有無などの条件別に、遺伝子の発現情報をまとめられています。
+  - 【統合TV】[Expression Atlas で 様々な生物種の組織や疾患などにおける遺伝子発現の情報を調べる](https://togotv.dbcls.jp/20180725.html)
+
+- Bgee
+  - Bgee (a dataBase for Gene Expression Evolution: ビージーと発音します) は、SIB Swiss Institute of Bioinformatics/ローザンヌ大学の Robinson-Rechavi Group - Evolutionary Bioinformaticsが提供するデータベースで、これはRNA-seqやマイクロアレイなどから得られた遺伝子発現パターンについて、多くの生物種間で比較することができます。
+  - 【統合TV】[Bgee を使って、複数の生物種の正常組織における遺伝子発現データを検索、比較、取得する](https://togotv.dbcls.jp/20180918.html)
+
+- BioGPS
+  - AffymetrixのマイクロアレイであるGeneChipを用いたヒト、マウス、ラットを始め全9生物種におけるさまざまな組織や細胞(株)における遺伝子発現プロファイルのデータベースです。
+  - 【統合TV】[遺伝子発現プロファイルデータベースBioGPSを使い倒す 2012](https://togotv.dbcls.jp/20120911.html)
+
 ----
 
 ## 数十～数千の遺伝子群の生物学的解釈
@@ -346,23 +293,24 @@ ChIP-Atlasは、論文などで報告された ChIP-seq データを閲覧し、
 
 #### ChIP-Atlasの機能
 ##### Peak Browser
-* 既報の ChIP-seq データをまとめて閲覧し、何がどこに結合しているかが一目でわかります。Integrative Genomics Viewer (IGV) によりスムーズなブラウジングが可能で、興味の遺伝子のシス調節領域を予測したり、それを制御する転写因子の予測ができます。
-  * [ChIP\-Atlasを使って既報のChIP\-seqデータをまとめて閲覧する 〜Peak Browserの使い方〜](https://togotv.dbcls.jp/20180123.html)
+- 既報の ChIP-seq データをまとめて閲覧し、何がどこに結合しているかが一目でわかります。Integrative Genomics Viewer (IGV) によりスムーズなブラウジングが可能で、興味の遺伝子のシス調節領域を予測したり、それを制御する転写因子の予測ができます。
+  - 【統合TV】[ChIP\-Atlasを使って既報のChIP\-seqデータをまとめて閲覧する 〜Peak Browserの使い方〜](https://togotv.dbcls.jp/20180123.html)
 ##### Target Genes
-* 興味のある転写因子を選択し、その標的遺伝子候補を検索できます。
-  * 統合TV「[ChIP\-Atlasを使って興味のある転写因子を選択しその標的遺伝子候補を検索する 〜Target Genesの使い方〜](https://togotv.dbcls.jp/20180124.html)」
+- 興味のある転写因子を選択し、その標的遺伝子候補を検索できます。
+  - 【統合TV】「[ChIP\-Atlasを使って興味のある転写因子を選択しその標的遺伝子候補を検索する 〜Target Genesの使い方〜](https://togotv.dbcls.jp/20180124.html)」
 ##### Colocalization
-* 興味のある転写因子を選択し、それとゲノム上で共局在する転写因子候補を検索できます。
-  * 統合TV「[ChIP\-Atlasを使って共局在タンパク質を探す 〜Colocalizationの使い方〜](https://togotv.dbcls.jp/20180128.html)」
+- 興味のある転写因子を選択し、それとゲノム上で共局在する転写因子候補を検索できます。
+  - 【統合TV】「[ChIP\-Atlasを使って共局在タンパク質を探す 〜Colocalizationの使い方〜](https://togotv.dbcls.jp/20180128.html)」
 ##### Enrichment Analysis
-* ユーザデータを受け付け、既存データとの比較解析をおこないます。たとえば、興味のある遺伝子リストを submit すると、それらをまとめて制御する転写因子候補が返されます。ほかにも BED 形式のファイルや、シーケンスモチーフを submit すると、それらに enrichment する転写因子群が返されます。
+  - ユーザデータを受け付け、既存データとの比較解析をおこないます。たとえば、興味のある遺伝子リストを submit すると、それらをまとめて制御する転写因子候補が返されます。ほかにも BED 形式のファイルや、シーケンスモチーフを submit すると、それらに enrichment する転写因子群が返されます。
 
 
 #### 利用例
-* 論文として発表された ChIP-Seq データを閲覧したい
-* 興味のあるゲノム領域における、転写因子や修飾ヒストンの分布を知りたい
-* 興味のある転写因子の下流遺伝子や、複合体形成パートナーを知りたい
-自身の研究データと公開 ChIP-seq データを用いて比較解析をおこないたい
+- 論文として発表された ChIP-Seq データを閲覧したい
+- 興味のあるゲノム領域における、転写因子や修飾ヒストンの分布を知りたい
+- 興味のある転写因子の下流遺伝子や、複合体形成パートナーを知りたい
+- 自身の研究データと公開 ChIP-seq データを用いて比較解析をおこないたい
+
 #### 参考文献
 - Source code and documentation    
   - https://github.com/inutano/chip-atlas
@@ -377,41 +325,117 @@ ChIP-Atlasは、論文などで報告された ChIP-seq データを閲覧し、
   - Oki, S; Ohta, T (2015): ChIP-Atlas. http://dx.doi.org/10.18908/lsdba.nbdc01558-000
 - Publications citing ChIP-Atlas http://chip-atlas.org/publications
 
-### 【実習2】ChIP-AtlasのEnrichment Analysis を使って、興味ある遺伝子リストを制御する可能性の高い転写因子を調べる
-* 「発現差のあった遺伝子リスト」を持っている想定で、それらの遺伝子に結合しうる、あるいは上流でそれらの遺伝子の発現を制御する可能性がある転写因子を検索する
-* 使用するデータ
+### 【実習】ChIP-AtlasのEnrichment Analysis を使って、興味ある遺伝子リストを制御する可能性の高い転写因子を調べる
+- 「発現差のあった遺伝子リスト」を持っている想定で、それらの遺伝子に結合しうる、あるいは上流でそれらの遺伝子の発現を制御する可能性がある転写因子を検索する
+- 使用するデータ
   - [190606_List_of_GeneSymbol_txt](https://github.com/AJACS-training/AJACS76/blob/master/05_hono/190606_List_of_GeneSymbol.txt)
     - ある「興味ある遺伝子リスト」をGeneSymbolにID変換したデータ。
     - これを使って、もともとどういう遺伝子リストだったかを考察します。
   - ChIP-Atlas では、遺伝子IDとしてGeneSymbolのみを受け付けているので、それ以外のIDで遺伝子リストを持っている場合は、適宜変換が必要です。
-    - ID変換はいろいろなツールがあるが、今回は[HGNC BioMart](https://biomart.genenames.org/)を利用する。
+    - ID変換はいろいろなツールがありますが、今回は[HGNC BioMart](https://biomart.genenames.org/)を利用します。
       - HGNC(The HUGO Gene Nomenclature Committee)はヒトのGeneSymbolを認定・管理している機関。
+        - 【統合TV】[HGNCを使ってヒト遺伝子の正式略称(GeneSymbol)を検索する(+ヒトとマウスの遺伝子IDを変換する)](https://togotv.dbcls.jp/20190406.html)
       - [DAVID(Database for Annotation, Visualization and Integrated Discovery)
    ](https://david.ncifcrf.gov/)のGene ID Conversion Toolも便利。([使い方動画](https://youtu.be/4f1t1ma9IRc?t=4m5s))
 
-1. [ChIP\-Atlas \- Enrichment Analysis](https://chip-atlas.org/enrichment_analysis)にアクセスする
-2. 下図のようにオプションを設定する
+
+1. [ChIP\-Atlas - Enrichment Analysis](https://chip-atlas.org/enrichment_analysis)にアクセスする
+1. 下図のようにオプションを設定する
 ![fig12](https://raw.githubusercontent.com/hiromasaono/training/master/images/181104_12.png)
-3. submit すると遺伝研スパコンへクエリが飛ぶ(ので、講義中は見てるだけにしてください)
-4. submit したあとの画面
+1. submit すると遺伝研スパコンへクエリが飛ぶ(ので、講義中は見てるだけにしてください)
+1. submit したあとの画面
 ![fig13](https://raw.githubusercontent.com/hiromasaono/training/master/images/181104_13.png)
-5. 計算が終わるまで待つ
+1. 計算が終わるまで待つ
 ![fig14](https://raw.githubusercontent.com/hiromasaono/training/master/images/181104_14.png)
-6. 計算が終わると、「Result URL」が有効になる
+1. 計算が終わると、「Result URL」が有効になる
   - 今回の例では、 http://ddbj.nig.ac.jp/wabi/chipatlas/wabi_chipatlas_2018-1104-1735-21-275-473936?info=result&format=html
-7. 結果の解釈をする
+1. 結果の解釈をする
   - 今回は、どういう「興味ある遺伝子リスト」をクエリとしたか考察してみましょう。
   - 結果の見方としては、「p-valueが低く、Overlaps/My dataが多く、Fold Enrichmentが高い」転写因子がたくさんヒットしてくると入力した遺伝子群をまとめて制御する、マスター転写因子を抽出できている確度が高い
 
-8. [答え合わせ](https://github.com/AJACS-training/AJACS76/blob/master/05_hono/190606_ChIP-Atlas_answer.md)
+1. [答え合わせ](https://github.com/AJACS-training/AJACS76/blob/master/05_hono/190606_ChIP-Atlas_answer.md)
 
 
-## さらに学びたい方向け
-### データ可視化・解析ツール
-- [Tableau Public を使って 行列データを直感的に可視化し解析する](https://togotv.dbcls.jp/20181126.html)
-- [Morpheus を使って、様々な行列データをヒートマップで表示しウェブブラウザでデータ解析をする](https://togotv.dbcls.jp/20181109.html)
-- [Dataset2Tools でオミックスデータとその解析事例、計算ツールを検索し、再現性の高い再解析を行う](https://togotv.dbcls.jp/20181021.html)
-    - [Enrichr](http://amp.pharm.mssm.edu/Enrichr)
+
+## 研究現場で頻繁に使われるデータベースやツールを知る
+### [統合TV](https://togotv.dbcls.jp/)
+#### 生命科学分野の有用なデータベースやツールの使い方を動画で紹介するウェブサイト
+- https://togotv.dbcls.jp/
+- ![統合TVトップページ](https://raw.githubusercontent.com/hiromasaono/training/master/images/190606_01.png)
+- 各動画は[YouTubeに上がって](http://www.youtube.com/user/togotv/)おり、おなじみの再生画面で快適にご覧いただけます。(環境に応じた解像度、倍速表示等)
+- 1600本を超える動画が公開されており、YouTube版だけで のべ 1,300,000回以上 再生されています。(2019年4月末現在)
+- ![YouTube統計](https://raw.githubusercontent.com/hiromasaono/training/master/images/190606_03.png)
+- ![統合TV 再生画面](https://raw.githubusercontent.com/hiromasaono/training/master/images/190606_02.png)
+  - ウェブサイトへのアクセスの仕方から結果の解釈まで、操作の一挙手一投足がわかります。
+  - 動画ファイルのみの一部および一括ダウンロード([NBDC生命科学系データベースアーカイブ](https://dbarchive.biosciencedbc.jp/jp/togotv/download.html))も可能で、オフライン視聴もできます。
+  - 動画の概要を示すダイジェスト見出しで視聴すべき箇所がわかりやすくなっています。
+  - 各動画には、恒久的な URL として利用されている [DOI](https://ja.wikipedia.org/wiki/デジタルオブジェクト識別子) (Digital Object Identifier) が付与されています(引用可能)。
+  - 講義・講習などの参考資料や後輩指導の教材として利用できます。
+    - 本講義中も、本家サイトが繋がらない時は、統合TVを見ればおおよその内容がわかるようになっています。
+
+#### 動画以外のコンテンツも拡充中
+- [AJACS講習会資料](https://togotv.dbcls.jp/ja/ajacs_text.html)
+  - 2014年8月以降に開催された過去の講習会の資料・テキストと動画が同時閲覧できます。
+  - 受講生の復習のみならず、初学者の学習教材として活用できます。
+- [Togo Picture Gallery(静止画)](https://togotv.dbcls.jp/ja/pics.html)
+  - 誰でも自由に利用可能なライフサイエンス分野のイラストが､統合TVから閲覧､利用することができるようになりました。[「自由に使える画像を探す」](https://togotv.dbcls.jp/ja/pics.html)
+  - Togo picture galleryと[生物アイコン](https://togodb.biosciencedbc.jp/togodb/view/taxonomy_icon)の全画像500点以上を一覧できます。
+  - 研究発表のスライド作成や資料作成等に､ぜひお使いください。
+  - ![自由に使える画像を探す](https://raw.githubusercontent.com/hiromasaono/training/master/images/180612_04.png)
+
+#### 募集と宣伝
+- お探しの動画・静止画が見つからない場合は、[統合TV番組リクエストフォーム](https://togotv.dbcls.jp/ja/contact.html)でお気軽にリクエストを。
+- 統合TVでコンテンツを作ってみたい方も募集中です。
+  - オンラインで完結する作成環境を整備しており、遠隔地でもOKです。謝金あり。)
+- 統合TVを効果的に利用するためのガイドブックが出版されました。(2018年12月)
+  - 生命科学データベース・ウェブツール  － 図解と動画で使い方がわかる！ 研究がはかどる定番18選 －
+  - 「定番」として何がよく使われているのかを知り、その使い方を学び、どう使うと便利なのかについて、体系的にまとめて俯瞰的に捉えられるように編集されています。
+  - 「この順で動画をみていくと、こういうスキルを獲得できる」というような体系的な教材です。
+  - https://www.amazon.co.jp/dp/4815701431/
+  - https://www.medsi.co.jp/books/products/detail.php?product_id=3665
+
+    ----
+
+#### 習熟度ややりたいこと別に、とりあえず押さえておきたい統合TVオススメ番組
+- DBCLSの提供する便利な各種サービスをレビュー
+  - [【NGSハンズオン2017】NBDC・DBCLSの各種サービス 今日から使える便利な生命科学系公共データベース in DBCLS](https://togotv.dbcls.jp/20171204.html)
+
+- PubMed検索のプロによる文献検索のイロハを学ぶ
+  - [文献情報を用いたサービスを活用する @ AJACS越後](https://togotv.dbcls.jp/ja/ajacs2018011.html)
+
+- 塩基配列解析に関わる基礎知識(遺伝子IDとそのデータベース)とゲノム編集について
+  - [塩基配列解析およびゲノム編集のためのデータベース・ウェブツール](https://togotv.dbcls.jp/ja/ajacs2018021.html)
+
+- 次世代シーケンス(NGS)データ解析に必要な基礎知識とリテラシーを学ぶ
+  - [NGSデータから新たな知識を導出するためのデータ解析リテラシー @ AJACS浜松](https://togotv.dbcls.jp/ja/ajacs2018008.html)
+
+- NGS解析について、さらにもっと基礎から応用までを深く学びたい方向け (それぞれ約50時間程度)
+  - [「バイオインフォマティクス人材育成カリキュラム（次世代シークエンサ）速習コース(2014年8月)](https://www.youtube.com/playlist?list=PL0uaKHgcG00abmj1Nzs1SUhqKLjf_PFBB)
+  - [「バイオインフォマティクス人材育成カリキュラム 次世代シークエンサ(NGS)ハンズオン講習会(2015年8月)](https://www.youtube.com/playlist?list=PL0uaKHgcG00Yo0Cn0rcF23xof5hqCzGQb)
+  - [NGSハンズオン講習会2016](https://www.youtube.com/watch?v=TSa1yPy_sdM&list=PL0uaKHgcG00ZNpICun17CEAFpV_5Q6GCA)
+  - [NGSハンズオン講習会2017](https://www.youtube.com/watch?v=6Fzvl_I48tM&list=PL0uaKHgcG00YDmBXYWOgkmfeURjc8BZkk)
+  - [上記の動画+講習会資料のまとめページ@統合TV](https://togotv.dbcls.jp/ja/tags.html?tag=NGS速習・ハンズオン)
+
+- データ可視化・解析ツール
+  - [Tableau Public を使って 行列データを直感的に可視化し解析する](https://togotv.dbcls.jp/20181126.html)
+  - [Morpheus を使って、様々な行列データをヒートマップで表示しウェブブラウザでデータ解析をする](https://togotv.dbcls.jp/20181109.html)
+  - [Dataset2Tools でオミックスデータとその解析事例、計算ツールを検索し、再現性の高い再解析を行う](https://togotv.dbcls.jp/20181021.html)
+      - [Enrichr](http://amp.pharm.mssm.edu/Enrichr)
+
+
+- ビッグデータ時代の疾患ゲノム解析で使いこなしたいデータベース
+  - [The Cancer Genome Atlas \(TCGA\) を使って各癌種の公開データを検索・ダウンロードする](https://togotv.dbcls.jp/20171210.html)
+  - [The Cancer Genome Atlas \(TCGA\) を使って各癌種の公開データを解析する](https://togotv.dbcls.jp/20171214.html)
+  - [COSMICでがん遺伝子の体細胞変異について調べる](https://togotv.dbcls.jp/20180127.html)
+  - [COSMIC\-3Dを使って がん遺伝子のコードするタンパク質の立体構造を がんで見られる変異の情報と重ねて見る](https://togotv.dbcls.jp/20180329.html)
+  - [depmapを使ってがん細胞が依存する遺伝子の情報を調べる \(がんの治療標的となる遺伝子を発見する\)](https://togotv.dbcls.jp/20180531.html)
+  - [GWAS Catalog を使って、GWASで見つかった形質と多型の関連について検索する](https://togotv.dbcls.jp/20180402.html)
+  - [ClinVarで疾患に関連する変異を検索し、Variation Viewerで視覚的に変異を探す](https://togotv.dbcls.jp/20180122.html)
+  - [gnomADを使ってヒトのエキソームやゲノムのデータから変異を探す](https://togotv.dbcls.jp/20180401.html)
+    - [GTEx Portalを使ってヒトの各組織での遺伝子発現量や影響するeQTLを調べる](https://togotv.dbcls.jp/20180101.html)
+    - [TogoVar でヒトゲノムに存在するバリアントに関連する情報を調べる](https://togotv.dbcls.jp/20180825.html)
+
+----
 
 
 
@@ -423,7 +447,7 @@ ChIP-Atlasは、論文などで報告された ChIP-seq データを閲覧し、
 - 仮説構築から始まり、実験計画・検証、データ解析、そして論文執筆(以下ループ)という研究サイクルを加速化・効率化していきましょう。
 - データベースやウェブツールで困ったら、「統合TV」でまず探して・見てみる
 - 研究に役立ったら、ぜひ引用・クレジットを!
-- NBDC/DBCLSの提供するサービス(あるいはそれ以外でも)が、あなたの研究に役立ったら、どんなに些細な事でもぜひ引用(論文、URL等)してください。NBDC/DBCLSの活動は、提供するサービスがどのくらい活用されたかについて主に引用数やアクセス数などで評価されており、利用者の方の積極的なサポートが必要不可欠です!!
+  - NBDC/DBCLSの提供するサービス(あるいはそれ以外でも)が、あなたの研究に役立ったら、どんなに些細な事でもぜひ引用(論文、URL等)してください。NBDC/DBCLSの活動は、提供するサービスがどのくらい活用されたかについて主に引用数やアクセス数などで評価されており、利用者の方の積極的なサポートが必要不可欠です!!
   - [NBDC関連サービスの活用に関する情報提供フォーム](https://form.jst.go.jp/enquetes/nbdcexamples)
 
 
