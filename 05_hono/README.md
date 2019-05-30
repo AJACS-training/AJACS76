@@ -339,19 +339,20 @@ ChIP-Atlasは、論文などで報告された ChIP-seq データを閲覧し、
    ](https://david.ncifcrf.gov/)のGene ID Conversion Toolも便利。([使い方動画](https://youtu.be/4f1t1ma9IRc?t=4m5s))
 
 
-1. [ChIP\-Atlas - Enrichment Analysis](https://chip-atlas.org/enrichment_analysis)にアクセスする
-1. 下図のようにオプションを設定する
+1. [ChIP\-Atlas - Enrichment Analysis](https://chip-atlas.org/enrichment_analysis)にアクセスします。
+1. 下図のようにオプションを設定します。
 ![fig12](https://raw.githubusercontent.com/hiromasaono/training/master/images/181104_12.png)
-1. submit すると遺伝研スパコンへクエリが飛ぶ(ので、講義中は見てるだけにしてください)
+1. submit すると遺伝研スパコンへクエリが飛びます。(ので、講義中は見てるだけにしてください)
 1. submit したあとの画面
 ![fig13](https://raw.githubusercontent.com/hiromasaono/training/master/images/181104_13.png)
-1. 計算が終わるまで待つ
+1. 計算が終わるまで待ちます
 ![fig14](https://raw.githubusercontent.com/hiromasaono/training/master/images/181104_14.png)
-1. 計算が終わると、「Result URL」が有効になる
+1. 計算が終わると、「Result URL」が有効になります。
   - 今回の例では、 http://ddbj.nig.ac.jp/wabi/chipatlas/wabi_chipatlas_2018-1104-1735-21-275-473936?info=result&format=html
-1. 結果の解釈をする
+1. 結果の解釈をします。
   - 今回は、どういう「興味ある遺伝子リスト」をクエリとしたか考察してみましょう。
-  - 結果の見方としては、「p-valueが低く、Overlaps/My dataが多く、Fold Enrichmentが高い」転写因子がたくさんヒットしてくると入力した遺伝子群をまとめて制御する、マスター転写因子を抽出できている確度が高い
+  - 「p-valueが低く、Overlaps/My dataが多く、Fold Enrichmentが高い」転写因子がたくさんヒットしてくる　
+    - → 入力した遺伝子群をまとめて制御する、マスター転写因子を抽出できている可能性が高いと言えます。
 
 1. [答え合わせ](https://github.com/AJACS-training/AJACS76/blob/master/05_hono/190606_ChIP-Atlas_answer.md)
 
