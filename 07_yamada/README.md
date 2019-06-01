@@ -12,6 +12,7 @@
 
 * <span class="c41">日時：2019年6月6日（木）</span>
 
+* https://github.com/yamadaissaku/AJACS76_-Tokushima
 ---
 
 <span class="c3"></span>
